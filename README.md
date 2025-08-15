@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deebleb //Deebl was taken
+- 👋 Hi, I’m @deebl-e //Deebl was taken
 - 👀 I’m interested in making games and learning programming at the moment
 - ⚡ Fun fact:
 - Im learning Rust 🦀
