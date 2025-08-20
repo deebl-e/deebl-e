@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Howie Bray or @deebl-e (dee bull)
+why you're here idk but 👋
+
+- I’m Howie Bray or @deebl-e (dee bull)
 - I like making games 
 - ❤️godot for games
 - im tryna get better at the writing code thing
