@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @deebl-e
-- 👀 I’m interested in making games and learning programming at the moment
-- ⚡ Fun fact:
-- Im learning Rust 🦀
+- 👋 Hi, I’m Howie Bray or @deebl-e (dee bull)
+- I like making games 
+- ❤️godot for games
+- im tryna get better at the writing code thing
 
 <!---
 Deebleb/Deebleb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
